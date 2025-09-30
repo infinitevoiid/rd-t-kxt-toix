@@ -124,15 +124,15 @@ body {
 }
 
 .blinking-box .color1 {
-    background-color: #EB9DB9;
+    background-color: #75E4D8;
 }
 
 .blinking-box .color2 {
-    background-color: #36E640;
+    background-color: #87BA7E;
 }
 
 .blinking-box .color3 {
-    background-color: #6FF289;
+    background-color: #37CE69;
 }
 
 @keyframes blink {
